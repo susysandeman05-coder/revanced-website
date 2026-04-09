@@ -1,4 +1,5 @@
-name: Open a PR to main
+git clone https://github.com/susysandeman05-coder/revanced-website.git
+cd revanced-website name: Open a PR to main
 
 on:
   push:
